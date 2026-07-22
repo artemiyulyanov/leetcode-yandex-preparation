@@ -7,4 +7,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/two-sum/TwoSum.cpp
         easy/two-sum/TwoSum.h
         easy/best-time-to-buy-and-sell/BestTimeToBuyAndSell.cpp
-        easy/best-time-to-buy-and-sell/BestTimeToBuyAndSell.h)
+        easy/best-time-to-buy-and-sell/BestTimeToBuyAndSell.h
+        easy/contains-duplicate/ContainsDuplicate.cpp
+        easy/contains-duplicate/ContainsDuplicate.h)
