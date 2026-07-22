@@ -3,4 +3,6 @@ project(leetcode_yandex_preparation)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(leetcode_yandex_preparation main.cpp)
+add_executable(leetcode_yandex_preparation main.cpp
+        easy/two-sum/TwoSum.cpp
+        easy/two-sum/TwoSum.h)
