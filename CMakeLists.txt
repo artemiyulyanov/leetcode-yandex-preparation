@@ -9,4 +9,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/best-time-to-buy-and-sell/BestTimeToBuyAndSell.cpp
         easy/best-time-to-buy-and-sell/BestTimeToBuyAndSell.h
         easy/contains-duplicate/ContainsDuplicate.cpp
-        easy/contains-duplicate/ContainsDuplicate.h)
+        easy/contains-duplicate/ContainsDuplicate.h
+        medium/maximum-subarray/MaximumSubarray.cpp
+        medium/maximum-subarray/MaximumSubarray.h)
