@@ -23,4 +23,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/insert-interval/InsertInterval.cpp
         medium/insert-interval/InsertInterval.h
         medium/non-overlapping-intervals/NonOverlappingIntervals.cpp
-        medium/non-overlapping-intervals/NonOverlappingIntervals.h)
+        medium/non-overlapping-intervals/NonOverlappingIntervals.h
+        hard/first-missing-positive/FirstMissingPositive.cpp
+        hard/first-missing-positive/FirstMissingPositive.h)
