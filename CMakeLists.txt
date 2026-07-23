@@ -27,4 +27,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         hard/first-missing-positive/FirstMissingPositive.cpp
         hard/first-missing-positive/FirstMissingPositive.h
         hard/trapping-rain-water/TrappingRainWater.cpp
-        hard/trapping-rain-water/TrappingRainWater.h)
+        hard/trapping-rain-water/TrappingRainWater.h
+        medium/range-sum-query-2d/NumMatrix.cpp
+        medium/range-sum-query-2d/NumMatrix.h)
