@@ -15,4 +15,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/move-zeroes/MoveZeroes.cpp
         easy/move-zeroes/MoveZeroes.h
         easy/majority-element/MajorityElement.cpp
-        easy/majority-element/MajorityElement.h)
+        easy/majority-element/MajorityElement.h
+        medium/product-except-self/ProductExceptSelf.cpp
+        medium/product-except-self/ProductExceptSelf.h)
