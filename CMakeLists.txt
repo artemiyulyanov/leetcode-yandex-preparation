@@ -17,4 +17,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/majority-element/MajorityElement.cpp
         easy/majority-element/MajorityElement.h
         medium/product-except-self/ProductExceptSelf.cpp
-        medium/product-except-self/ProductExceptSelf.h)
+        medium/product-except-self/ProductExceptSelf.h
+        medium/merge-intervals/MergeIntervals.cpp
+        medium/merge-intervals/MergeIntervals.h)
