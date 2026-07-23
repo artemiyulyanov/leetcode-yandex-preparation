@@ -21,4 +21,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/merge-intervals/MergeIntervals.cpp
         medium/merge-intervals/MergeIntervals.h
         medium/insert-interval/InsertInterval.cpp
-        medium/insert-interval/InsertInterval.h)
+        medium/insert-interval/InsertInterval.h
+        medium/non-overlapping-intervals/NonOverlappingIntervals.cpp
+        medium/non-overlapping-intervals/NonOverlappingIntervals.h)
