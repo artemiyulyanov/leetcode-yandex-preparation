@@ -13,4 +13,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/maximum-subarray/MaximumSubarray.cpp
         medium/maximum-subarray/MaximumSubarray.h
         easy/move-zeroes/MoveZeroes.cpp
-        easy/move-zeroes/MoveZeroes.h)
+        easy/move-zeroes/MoveZeroes.h
+        easy/majority-element/MajorityElement.cpp
+        easy/majority-element/MajorityElement.h)
