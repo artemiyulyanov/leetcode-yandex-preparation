@@ -29,4 +29,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         hard/trapping-rain-water/TrappingRainWater.cpp
         hard/trapping-rain-water/TrappingRainWater.h
         medium/range-sum-query-2d/NumMatrix.cpp
-        medium/range-sum-query-2d/NumMatrix.h)
+        medium/range-sum-query-2d/NumMatrix.h
+        medium/rotate-array/RotateArray.cpp
+        medium/rotate-array/RotateArray.h)
