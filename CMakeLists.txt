@@ -31,4 +31,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/range-sum-query-2d/NumMatrix.cpp
         medium/range-sum-query-2d/NumMatrix.h
         medium/rotate-array/RotateArray.cpp
-        medium/rotate-array/RotateArray.h)
+        medium/rotate-array/RotateArray.h
+        medium/jump-game/JumpGame.cpp
+        medium/jump-game/JumpGame.h)
