@@ -43,4 +43,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/maximum-69-number/Maximum69Number.cpp
         easy/maximum-69-number/Maximum69Number.h
         easy/reverse-linked-list/ReverseLinkedList.cpp
-        easy/reverse-linked-list/ReverseLinkedList.h)
+        easy/reverse-linked-list/ReverseLinkedList.h
+        medium/valid-sudoku/ValidSudoku.cpp
+        medium/valid-sudoku/ValidSudoku.h)
