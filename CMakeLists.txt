@@ -45,4 +45,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/reverse-linked-list/ReverseLinkedList.cpp
         easy/reverse-linked-list/ReverseLinkedList.h
         medium/valid-sudoku/ValidSudoku.cpp
-        medium/valid-sudoku/ValidSudoku.h)
+        medium/valid-sudoku/ValidSudoku.h
+        easy/valid-palindrome/ValidPalindrome.cpp
+        easy/valid-palindrome/ValidPalindrome.h)
