@@ -41,4 +41,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/sqrt/Sqrt.cpp
         easy/sqrt/Sqrt.h
         easy/maximum-69-number/Maximum69Number.cpp
-        easy/maximum-69-number/Maximum69Number.h)
+        easy/maximum-69-number/Maximum69Number.h
+        easy/reverse-linked-list/ReverseLinkedList.cpp
+        easy/reverse-linked-list/ReverseLinkedList.h)
