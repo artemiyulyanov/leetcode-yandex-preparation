@@ -39,4 +39,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/search-2d-matrix/SearchMatrix.cpp
         medium/search-2d-matrix/SearchMatrix.h
         easy/sqrt/Sqrt.cpp
-        easy/sqrt/Sqrt.h)
+        easy/sqrt/Sqrt.h
+        easy/maximum-69-number/Maximum69Number.cpp
+        easy/maximum-69-number/Maximum69Number.h)
