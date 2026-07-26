@@ -37,4 +37,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/jump-game/subarray-sum-equals-k/SubarraySumEqualsK.cpp
         medium/jump-game/subarray-sum-equals-k/SubarraySumEqualsK.h
         medium/search-2d-matrix/SearchMatrix.cpp
-        medium/search-2d-matrix/SearchMatrix.h)
+        medium/search-2d-matrix/SearchMatrix.h
+        easy/sqrt/Sqrt.cpp
+        easy/sqrt/Sqrt.h)
