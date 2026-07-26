@@ -47,4 +47,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/valid-sudoku/ValidSudoku.cpp
         medium/valid-sudoku/ValidSudoku.h
         easy/valid-palindrome/ValidPalindrome.cpp
-        easy/valid-palindrome/ValidPalindrome.h)
+        easy/valid-palindrome/ValidPalindrome.h
+        easy/summary-ranges/SummaryRanges.cpp
+        easy/summary-ranges/SummaryRanges.h)
