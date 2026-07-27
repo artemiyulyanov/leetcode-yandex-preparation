@@ -53,4 +53,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/my-atoi/MyAtoi.cpp
         medium/my-atoi/MyAtoi.h
         medium/compare-version-numbers/CompareVersionNumbers.cpp
-        medium/compare-version-numbers/CompareVersionNumbers.h)
+        medium/compare-version-numbers/CompareVersionNumbers.h
+        medium/zigzag-conversion/ZigzagConversion.cpp
+        medium/zigzag-conversion/ZigzagConversion.h)
