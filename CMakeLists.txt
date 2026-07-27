@@ -55,4 +55,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/compare-version-numbers/CompareVersionNumbers.cpp
         medium/compare-version-numbers/CompareVersionNumbers.h
         medium/zigzag-conversion/ZigzagConversion.cpp
-        medium/zigzag-conversion/ZigzagConversion.h)
+        medium/zigzag-conversion/ZigzagConversion.h
+        hard/substring-of-concatenation-of-all-words/SubstringOfConcatenationOfAllWords.cpp
+        hard/substring-of-concatenation-of-all-words/SubstringOfConcatenationOfAllWords.h)
