@@ -49,4 +49,8 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/valid-palindrome/ValidPalindrome.cpp
         easy/valid-palindrome/ValidPalindrome.h
         easy/summary-ranges/SummaryRanges.cpp
-        easy/summary-ranges/SummaryRanges.h)
+        easy/summary-ranges/SummaryRanges.h
+        medium/my-atoi/MyAtoi.cpp
+        medium/my-atoi/MyAtoi.h
+        medium/compare-version-numbers/CompareVersionNumbers.cpp
+        medium/compare-version-numbers/CompareVersionNumbers.h)
