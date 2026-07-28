@@ -25,7 +25,6 @@ int LongestSubstringWithoutRepeatingCharacters::lengthOfLongestSubstring(std::st
         }
 
         if (alphabet[r] == 1) {
-            std::cout << s.substr(left, right - left + 1) << std::endl;
             maxLen = std::max(maxLen, right - left + 1);
         }
     }
