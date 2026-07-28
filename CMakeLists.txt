@@ -59,4 +59,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         hard/substring-of-concatenation-of-all-words/SubstringOfConcatenationOfAllWords.cpp
         hard/substring-of-concatenation-of-all-words/SubstringOfConcatenationOfAllWords.h
         medium/decode-ways/DecodeWays.cpp
-        medium/decode-ways/DecodeWays.h)
+        medium/decode-ways/DecodeWays.h
+        easy/merge-sorted-arrays/MergeSortedArrays.cpp
+        easy/merge-sorted-arrays/MergeSortedArrays.h)
