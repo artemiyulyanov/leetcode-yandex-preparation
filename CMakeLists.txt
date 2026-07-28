@@ -61,4 +61,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/decode-ways/DecodeWays.cpp
         medium/decode-ways/DecodeWays.h
         easy/merge-sorted-arrays/MergeSortedArrays.cpp
-        easy/merge-sorted-arrays/MergeSortedArrays.h)
+        easy/merge-sorted-arrays/MergeSortedArrays.h
+        hard/minimum-window-substring/MinimumWindowSubstring.cpp
+        hard/minimum-window-substring/MinimumWindowSubstring.h)
