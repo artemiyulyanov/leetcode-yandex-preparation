@@ -63,4 +63,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/merge-sorted-arrays/MergeSortedArrays.cpp
         easy/merge-sorted-arrays/MergeSortedArrays.h
         hard/minimum-window-substring/MinimumWindowSubstring.cpp
-        hard/minimum-window-substring/MinimumWindowSubstring.h)
+        hard/minimum-window-substring/MinimumWindowSubstring.h
+        medium/longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.cpp
+        medium/longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.h)
