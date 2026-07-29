@@ -69,4 +69,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/longest-palindrome-substring/LongestPalindromeSubstring.cpp
         medium/longest-palindrome-substring/LongestPalindromeSubstring.h
         easy/ransom-note/RansomNote.cpp
-        easy/ransom-note/RansomNote.h)
+        easy/ransom-note/RansomNote.h
+        easy/group-anagrams/GroupAnagrams.cpp
+        easy/group-anagrams/GroupAnagrams.h)
