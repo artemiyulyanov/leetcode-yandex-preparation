@@ -86,4 +86,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/max-area-of-island/MaxAreaOfIsland.h
         easy/flood-fill/FloodFill.cpp
         easy/flood-fill/FloodFill.h
+        medium/find-peak-element/FindPeakElement.cpp
+        medium/find-peak-element/FindPeakElement.h
 )
