@@ -88,4 +88,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/flood-fill/FloodFill.h
         medium/find-peak-element/FindPeakElement.cpp
         medium/find-peak-element/FindPeakElement.h
+        medium/time-based-key-value-store/TimeMap.cpp
+        medium/time-based-key-value-store/TimeMap.h
 )
