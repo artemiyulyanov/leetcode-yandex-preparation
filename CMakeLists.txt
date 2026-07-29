@@ -71,4 +71,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/ransom-note/RansomNote.cpp
         easy/ransom-note/RansomNote.h
         easy/group-anagrams/GroupAnagrams.cpp
-        easy/group-anagrams/GroupAnagrams.h)
+        easy/group-anagrams/GroupAnagrams.h
+        medium/rotate-list/RotateList.cpp
+        medium/rotate-list/RotateList.h)
