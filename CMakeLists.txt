@@ -81,4 +81,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         yandex-interview-session/second-task/SecondTask.cpp
         yandex-interview-session/second-task/SecondTask.h
         medium/number-of-islands/NumberOfIslands.cpp
-        medium/number-of-islands/NumberOfIslands.h)
+        medium/number-of-islands/NumberOfIslands.h
+        medium/max-area-of-island/MaxAreaOfIsland.cpp
+        medium/max-area-of-island/MaxAreaOfIsland.h)
