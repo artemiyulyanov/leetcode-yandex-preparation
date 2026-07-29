@@ -73,4 +73,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/group-anagrams/GroupAnagrams.cpp
         easy/group-anagrams/GroupAnagrams.h
         medium/rotate-list/RotateList.cpp
-        medium/rotate-list/RotateList.h)
+        medium/rotate-list/RotateList.h
+        medium/reorder-list/ReorderList.cpp
+        medium/reorder-list/ReorderList.h)
