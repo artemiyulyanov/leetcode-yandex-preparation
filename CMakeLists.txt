@@ -75,4 +75,10 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/rotate-list/RotateList.cpp
         medium/rotate-list/RotateList.h
         medium/reorder-list/ReorderList.cpp
-        medium/reorder-list/ReorderList.h)
+        medium/reorder-list/ReorderList.h
+        yandex-interview-session/first-task/FirstTask.cpp
+        yandex-interview-session/first-task/FirstTask.h
+        yandex-interview-session/second-task/SecondTask.cpp
+        yandex-interview-session/second-task/SecondTask.h
+        medium/number-of-islands/NumberOfIslands.cpp
+        medium/number-of-islands/NumberOfIslands.h)
