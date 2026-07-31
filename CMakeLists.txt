@@ -94,4 +94,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/maximum-average-subarray/MaximumAverageSubarray.h
         medium/count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.cpp
         medium/count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.h
+        medium/flatten-binary-tree-to-linked-list/FlattenBinaryTreeToLinkedList.cpp
+        medium/flatten-binary-tree-to-linked-list/FlattenBinaryTreeToLinkedList.h
 )
