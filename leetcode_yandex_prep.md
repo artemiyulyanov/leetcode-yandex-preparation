@@ -154,7 +154,7 @@
 13. Construct Binary Tree from Preorder and Inorder Traversal (#105, Medium)
 14. Binary Tree Right Side View (#199, Medium)
 15. ✅ Count Good Nodes in Binary Tree (#1448, Medium)
-16. Flatten Binary Tree to Linked List (#114, Medium)
+16. ✅ Flatten Binary Tree to Linked List (#114, Medium)
 17. Populating Next Right Pointers in Each Node (#116, Medium)
 18. Path Sum II (#113, Medium)
 19. Path Sum III (#437, Medium)
