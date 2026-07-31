@@ -96,4 +96,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.h
         medium/flatten-binary-tree-to-linked-list/FlattenBinaryTreeToLinkedList.cpp
         medium/flatten-binary-tree-to-linked-list/FlattenBinaryTreeToLinkedList.h
+        easy/invert-binary-tree/InvertBinaryTree.cpp
+        easy/invert-binary-tree/InvertBinaryTree.h
 )
