@@ -100,4 +100,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/invert-binary-tree/InvertBinaryTree.h
         easy/same-tree/SameTree.cpp
         easy/same-tree/SameTree.h
+        easy/path-sum/PathSum.cpp
+        easy/path-sum/PathSum.h
 )
