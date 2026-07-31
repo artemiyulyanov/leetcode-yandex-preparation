@@ -90,4 +90,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/find-peak-element/FindPeakElement.h
         medium/time-based-key-value-store/TimeMap.cpp
         medium/time-based-key-value-store/TimeMap.h
+        easy/maximum-average-subarray/MaximumAverageSubarray.cpp
+        easy/maximum-average-subarray/MaximumAverageSubarray.h
 )
