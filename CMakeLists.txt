@@ -92,4 +92,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/time-based-key-value-store/TimeMap.h
         easy/maximum-average-subarray/MaximumAverageSubarray.cpp
         easy/maximum-average-subarray/MaximumAverageSubarray.h
+        medium/count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.cpp
+        medium/count-good-nodes-in-binary-tree/CountGoodNodesInBinaryTree.h
 )
