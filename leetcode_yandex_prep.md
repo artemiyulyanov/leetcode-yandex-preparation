@@ -141,7 +141,7 @@
 ### Tree
 1. Maximum Depth of Binary Tree (#104, Easy)
 2. ✅ Invert Binary Tree (#226, Easy)
-3. Same Tree (#100, Easy)
+3. ✅ Same Tree (#100, Easy)
 4. Symmetric Tree (#101, Easy)
 5. Path Sum (#112, Easy)
 6. Diameter of Binary Tree (#543, Easy)

@@ -98,4 +98,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/flatten-binary-tree-to-linked-list/FlattenBinaryTreeToLinkedList.h
         easy/invert-binary-tree/InvertBinaryTree.cpp
         easy/invert-binary-tree/InvertBinaryTree.h
+        easy/same-tree/SameTree.cpp
+        easy/same-tree/SameTree.h
 )
