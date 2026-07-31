@@ -1,35 +1,35 @@
-# Подготовка к алгособеседованию в Яндекс — расширенный список задач LeetCode
+# Подготовка к алгособеседованию в Яндекс — чеклист
 
-Максимально полный список по темам, от простых к сложным. Не обязательно решать всё подряд — ориентируйтесь на своё время, но чем больше закроете, тем увереннее будете себя чувствовать на секции с алгоритмами.
+Отмечены ✅ задачи, уже решённые (на основе твоей структуры папок easy/medium/hard).
 
 ---
 
 ## База
 
 ### Array
-1. Two Sum (#1, Easy)
-2. Best Time to Buy and Sell Stock (#121, Easy)
-3. Contains Duplicate (#217, Easy)
-4. Maximum Subarray (#53, Easy)
-5. Move Zeroes (#283, Easy)
-6. Majority Element (#169, Easy)
-7. Product of Array Except Self (#238, Medium)
-8. Merge Intervals (#56, Medium)
-9. Insert Interval (#57, Medium)
-10. Non-overlapping Intervals (#435, Medium)
+1. ✅ Two Sum (#1, Easy)
+2. ✅ Best Time to Buy and Sell Stock (#121, Easy)
+3. ✅ Contains Duplicate (#217, Easy)
+4. ✅ Maximum Subarray (#53, Easy)
+5. ✅ Move Zeroes (#283, Easy)
+6. ✅ Majority Element (#169, Easy)
+7. ✅ Product of Array Except Self (#238, Medium)
+8. ✅ Merge Intervals (#56, Medium)
+9. ✅ Insert Interval (#57, Medium)
+10. ✅ Non-overlapping Intervals (#435, Medium)
 11. 3Sum (#15, Medium)
 12. 4Sum (#18, Medium)
-13. Rotate Array (#189, Medium)
+13. ✅ Rotate Array (#189, Medium)
 14. Next Permutation (#31, Medium)
 15. Gas Station (#134, Medium)
-16. Jump Game (#55, Medium)
+16. ✅ Jump Game (#55, Medium)
 17. Jump Game II (#45, Medium)
 18. Subarray Sum Equals K (#560, Medium)
 19. Find All Duplicates in an Array (#442, Medium)
 20. Maximum Product Subarray (#152, Medium)
-21. Trapping Rain Water (#42, Hard)
-22. First Missing Positive (#41, Hard)
-23. Merge Sorted Array (#88, Easy)
+21. ✅ Trapping Rain Water (#42, Hard)
+22. ✅ First Missing Positive (#41, Hard)
+23. ✅ Merge Sorted Array (#88, Easy)
 24. Best Time to Buy and Sell Stock II (#122, Medium)
 
 ### Matrix
@@ -38,74 +38,74 @@
 3. Spiral Matrix (#54, Medium)
 4. Spiral Matrix II (#59, Medium)
 5. Set Matrix Zeroes (#73, Medium)
-6. Search a 2D Matrix (#74, Medium)
+6. ✅ Search a 2D Matrix (#74, Medium)
 7. Search a 2D Matrix II (#240, Medium)
 8. Word Search (#79, Medium)
-9. Number of Islands (#200, Medium)
-10. Max Area of Island (#695, Medium)
-11. Flood Fill (#733, Easy)
+9. ✅ Number of Islands (#200, Medium)
+10. ✅ Max Area of Island (#695, Medium)
+11. ✅ Flood Fill (#733, Easy)
 12. Diagonal Traverse (#498, Medium)
 13. Game of Life (#289, Medium)
 14. Pacific Atlantic Water Flow (#417, Medium)
-15. Valid Sudoku (#36, Medium)
+15. ✅ Valid Sudoku (#36, Medium)
 
 ### String
 1. Valid Anagram (#242, Easy)
 2. Valid Parentheses (#20, Easy)
-3. Valid Palindrome (#125, Easy)
+3. ✅ Valid Palindrome (#125, Easy)
 4. Longest Common Prefix (#14, Easy)
 5. Implement strStr() (#28, Easy)
-6. Longest Substring Without Repeating Characters (#3, Medium)
-7. Group Anagrams (#49, Medium)
-8. Longest Palindromic Substring (#5, Medium)
+6. ✅ Longest Substring Without Repeating Characters (#3, Medium)
+7. ✅ Group Anagrams (#49, Medium)
+8. ✅ Longest Palindromic Substring (#5, Medium)
 9. Palindromic Substrings (#647, Medium)
-10. String to Integer (atoi) (#8, Medium)
+10. ✅ String to Integer (atoi) (#8, Medium)
 11. Encode and Decode Strings (#271, Medium)
-12. Compare Version Numbers (#165, Medium)
-13. Zigzag Conversion (#6, Medium)
+12. ✅ Compare Version Numbers (#165, Medium)
+13. ✅ Zigzag Conversion (#6, Medium)
 14. Multiply Strings (#43, Medium)
-15. Decode Ways (#91, Medium)
-16. Minimum Window Substring (#76, Hard)
+15. ✅ Decode Ways (#91, Medium)
+16. ✅ Minimum Window Substring (#76, Hard)
 17. Regular Expression Matching (#10, Hard)
 18. Wildcard Matching (#44, Hard)
 19. Text Justification (#68, Hard)
 20. Basic Calculator (#224, Hard)
 
 ### HashMap
-1. Two Sum (#1, Easy)
-2. Contains Duplicate (#217, Easy)
+1. ✅ Two Sum (#1, Easy)
+2. ✅ Contains Duplicate (#217, Easy)
 3. Valid Anagram (#242, Easy)
-4. Ransom Note (#383, Easy)
+4. ✅ Ransom Note (#383, Easy)
 5. Isomorphic Strings (#205, Easy)
-6. Group Anagrams (#49, Medium)
+6. ✅ Group Anagrams (#49, Medium)
 7. Longest Consecutive Sequence (#128, Medium)
 8. Subarray Sum Equals K (#560, Medium)
 9. Top K Frequent Elements (#347, Medium)
 10. Insert Delete GetRandom O(1) (#380, Medium)
 11. LRU Cache (#146, Medium)
 12. Copy List with Random Pointer (#138, Medium)
-13. Longest Substring Without Repeating Characters (#3, Medium)
+13. ✅ Longest Substring Without Repeating Characters (#3, Medium)
 14. 4Sum II (#454, Medium)
 15. Design a HashMap (#706, Easy)
 
 ### LinkedList
-1. Reverse Linked List (#206, Easy)
+1. ✅ Reverse Linked List (#206, Easy)
 2. Merge Two Sorted Lists (#21, Easy)
 3. Linked List Cycle (#141, Easy)
 4. Palindrome Linked List (#234, Easy)
 5. Middle of the Linked List (#876, Easy)
 6. Remove Nth Node From End of List (#19, Medium)
-7. Reorder List (#143, Medium)
+7. ✅ Reorder List (#143, Medium)
 8. Add Two Numbers (#2, Medium)
 9. Odd Even Linked List (#328, Medium)
 10. Copy List with Random Pointer (#138, Medium)
-11. Rotate List (#61, Medium)
+11. ✅ Rotate List (#61, Medium)
 12. Swap Nodes in Pairs (#24, Medium)
 13. Sort List (#148, Medium)
 14. Flatten a Multilevel Doubly Linked List (#430, Medium)
 15. Merge k Sorted Lists (#23, Hard)
 16. Reverse Nodes in k-Group (#25, Hard)
-17. LRU Cache (#146, Medium) — реализация на двусвязном списке
+17. LRU Cache (#146, Medium)
 
 ### Queue
 1. Implement Queue using Stacks (#232, Easy)
@@ -136,7 +136,7 @@
 14. Largest Rectangle in Histogram (#84, Hard)
 15. Maximal Rectangle (#85, Hard)
 16. Basic Calculator (#224, Hard)
-17. Trapping Rain Water (#42, Hard) — стек-решение
+17. ✅ Trapping Rain Water (#42, Hard)
 
 ### Tree
 1. Maximum Depth of Binary Tree (#104, Easy)
@@ -153,7 +153,7 @@
 12. Kth Smallest Element in a BST (#230, Medium)
 13. Construct Binary Tree from Preorder and Inorder Traversal (#105, Medium)
 14. Binary Tree Right Side View (#199, Medium)
-15. Count Good Nodes in Binary Tree (#1448, Medium)
+15. ✅ Count Good Nodes in Binary Tree (#1448, Medium)
 16. Flatten Binary Tree to Linked List (#114, Medium)
 17. Populating Next Right Pointers in Each Node (#116, Medium)
 18. Path Sum II (#113, Medium)
@@ -162,7 +162,7 @@
 21. Binary Tree Maximum Path Sum (#124, Hard)
 22. Vertical Order Traversal of a Binary Tree (#987, Hard)
 23. Implement Trie (Prefix Tree) (#208, Medium)
-24. Word Search II (#212, Hard) — Trie + DFS
+24. Word Search II (#212, Hard)
 
 ### Heap
 1. Kth Largest Element in a Stream (#703, Easy)
@@ -182,9 +182,9 @@
 15. Smallest Range Covering Elements from K Lists (#632, Hard)
 
 ### Sliding Window
-1. Best Time to Buy and Sell Stock (#121, Easy)
-2. Maximum Average Subarray I (#643, Easy)
-3. Longest Substring Without Repeating Characters (#3, Medium)
+1. ✅ Best Time to Buy and Sell Stock (#121, Easy)
+2. ✅ Maximum Average Subarray I (#643, Easy)
+3. ✅ Longest Substring Without Repeating Characters (#3, Medium)
 4. Longest Repeating Character Replacement (#424, Medium)
 5. Minimum Size Subarray Sum (#209, Medium)
 6. Permutation in String (#567, Medium)
@@ -192,13 +192,13 @@
 8. Fruit Into Baskets (#904, Medium)
 9. Max Consecutive Ones III (#1004, Medium)
 10. Subarrays with K Different Integers (#992, Hard)
-11. Minimum Window Substring (#76, Hard)
+11. ✅ Minimum Window Substring (#76, Hard)
 12. Sliding Window Maximum (#239, Hard)
 13. Longest Substring with At Most K Distinct Characters (#340, Medium)
 
 ### Two Pointers
-1. Valid Palindrome (#125, Easy)
-2. Merge Sorted Array (#88, Easy)
+1. ✅ Valid Palindrome (#125, Easy)
+2. ✅ Merge Sorted Array (#88, Easy)
 3. Remove Duplicates from Sorted Array (#26, Easy)
 4. Two Sum II — Input Array Is Sorted (#167, Medium)
 5. 3Sum (#15, Medium)
@@ -207,31 +207,31 @@
 8. Sort Colors (#75, Medium)
 9. Boats to Save People (#881, Medium)
 10. Remove Duplicates from Sorted Array II (#80, Medium)
-11. Trapping Rain Water (#42, Hard)
-12. Minimum Window Substring (#76, Hard)
+11. ✅ Trapping Rain Water (#42, Hard)
+12. ✅ Minimum Window Substring (#76, Hard)
 
 ### Binary Search
 1. Binary Search (#704, Easy)
 2. Search Insert Position (#35, Easy)
 3. First Bad Version (#278, Easy)
-4. Sqrt(x) (#69, Easy)
+4. ✅ Sqrt(x) (#69, Easy)
 5. Search in Rotated Sorted Array (#33, Medium)
 6. Search in Rotated Sorted Array II (#81, Medium)
 7. Find Minimum in Rotated Sorted Array (#153, Medium)
 8. Find Minimum in Rotated Sorted Array II (#154, Hard)
 9. Find First and Last Position of Element in Sorted Array (#34, Medium)
 10. Koko Eating Bananas (#875, Medium)
-11. Search a 2D Matrix (#74, Medium)
-12. Find Peak Element (#162, Medium)
+11. ✅ Search a 2D Matrix (#74, Medium)
+12. ✅ Find Peak Element (#162, Medium)
 13. Capacity To Ship Packages Within D Days (#1011, Medium)
-14. Time Based Key-Value Store (#981, Medium)
+14. ✅ Time Based Key-Value Store (#981, Medium)
 15. Median of Two Sorted Arrays (#4, Hard)
 16. Split Array Largest Sum (#410, Hard)
 17. Kth Smallest Element in a Sorted Matrix (#378, Medium)
 
 ### DFS
-1. Number of Islands (#200, Medium)
-2. Max Area of Island (#695, Medium)
+1. ✅ Number of Islands (#200, Medium)
+2. ✅ Max Area of Island (#695, Medium)
 3. Clone Graph (#133, Medium)
 4. Course Schedule (#207, Medium)
 5. Course Schedule II (#210, Medium)
@@ -283,7 +283,7 @@
 9. Single Number III (#260, Medium)
 10. Sum of Two Integers (#371, Medium)
 11. Bitwise AND of Numbers Range (#201, Medium)
-12. Subsets (#78, Medium) — битовая маска как альтернативное решение
+12. Subsets (#78, Medium)
 13. Maximum XOR of Two Numbers in an Array (#421, Medium)
 14. Divide Two Integers (#29, Medium)
 
@@ -296,7 +296,7 @@
 6. LFU Cache (#460, Hard)
 7. Design Twitter (#355, Medium)
 8. Design Circular Queue (#622, Medium)
-9. Time Based Key-Value Store (#981, Medium)
+9. ✅ Time Based Key-Value Store (#981, Medium)
 10. Design Add and Search Words Data Structure (#211, Medium)
 11. Implement Trie (Prefix Tree) (#208, Medium)
 12. Design File System (#1166, Medium)
@@ -306,7 +306,7 @@
 16. Design Search Autocomplete System (#642, Hard)
 
 ### Math
-1. Sqrt(x) (#69, Easy)
+1. ✅ Sqrt(x) (#69, Easy)
 2. Roman to Integer (#13, Easy)
 3. Palindrome Number (#9, Easy)
 4. Happy Number (#202, Easy)
@@ -316,7 +316,7 @@
 8. Divide Two Integers (#29, Medium)
 9. Fraction to Recurring Decimal (#166, Medium)
 10. Reverse Integer (#7, Medium)
-11. Spiral Matrix (#54, Medium) — координатная геометрия
+11. Spiral Matrix (#54, Medium)
 12. Perfect Squares (#279, Medium)
 13. Basic Calculator II (#227, Medium)
 14. Random Pick with Weight (#528, Medium)
@@ -335,7 +335,7 @@
 11. Minimum Path Sum (#64, Medium)
 12. Partition Equal Subset Sum (#416, Medium)
 13. Target Sum (#494, Medium)
-14. Decode Ways (#91, Medium)
+14. ✅ Decode Ways (#91, Medium)
 15. Maximum Product Subarray (#152, Medium)
 16. Palindromic Substrings (#647, Medium)
 17. Longest Palindromic Subsequence (#516, Medium)
@@ -351,25 +351,15 @@
 
 ---
 
-## Дополнительно: Graph (часто спрашивают вместе с DFS/BFS)
-1. Number of Islands (#200, Medium)
+## Дополнительно: Graph
+1. ✅ Number of Islands (#200, Medium)
 2. Clone Graph (#133, Medium)
-3. Course Schedule (#207, Medium) — топологическая сортировка
+3. Course Schedule (#207, Medium)
 4. Course Schedule II (#210, Medium)
-5. Redundant Connection (#684, Medium) — Union-Find
-6. Number of Connected Components (#323, Medium) — Union-Find
+5. Redundant Connection (#684, Medium)
+6. Number of Connected Components (#323, Medium)
 7. Graph Valid Tree (#261, Medium)
-8. Network Delay Time (#743, Medium) — Dijkstra
-9. Cheapest Flights Within K Stops (#787, Medium) — Bellman-Ford
-10. Alien Dictionary (#269, Hard) — топологическая сортировка
+8. Network Delay Time (#743, Medium)
+9. Cheapest Flights Within K Stops (#787, Medium)
+10. Alien Dictionary (#269, Hard)
 11. Word Ladder (#127, Hard)
-
----
-
-## Как пользоваться списком
-
-- Идите по темам последовательно: сначала все Easy во всех темах, потом Medium, потом Hard — так вы быстрее увидите общую картину паттернов, а не застрянете на одной теме.
-- Темы Two Pointers, Sliding Window, Binary Search и DFS/BFS чаще всего встречаются на секциях в Яндексе — им стоит уделить больше времени.
-- Задачи на стыке тем (Number of Islands — Matrix+DFS, LRU Cache — HashMap+LinkedList+Design, Word Search II — Trie+DFS) лучше решать в конце, когда обе темы уже закрыты по отдельности.
-- Раздел Graph вынесен отдельно, потому что в Яндексе иногда отдельно спрашивают про Union-Find, Dijkstra и топологическую сортировку — база в DFS/BFS обычно не покрывает эти алгоритмы.
-- После первого решения задачи имеет смысл вернуться к ней через 3-5 дней и решить заново без подсказок — это тренирует скорость применения паттерна на реальном собеседовании.
