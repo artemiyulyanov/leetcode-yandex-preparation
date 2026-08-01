@@ -148,7 +148,7 @@
 7. Binary Tree Level Order Traversal (#102, Medium)
 8. Binary Tree Zigzag Level Order Traversal (#103, Medium)
 9. Validate Binary Search Tree (#98, Medium)
-10. Lowest Common Ancestor of a BST (#235, Medium)
+10. ✅ Lowest Common Ancestor of a BST (#235, Medium)
 11. Lowest Common Ancestor of a Binary Tree (#236, Medium)
 12. Kth Smallest Element in a BST (#230, Medium)
 13. Construct Binary Tree from Preorder and Inorder Traversal (#105, Medium)
