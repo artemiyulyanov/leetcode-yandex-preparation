@@ -102,4 +102,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/same-tree/SameTree.h
         easy/path-sum/PathSum.cpp
         easy/path-sum/PathSum.h
+        medium/lowest-common-ancestor-of-binary-search-tree/LowestCommonAncestorOfBinarySearchTree.cpp
+        medium/lowest-common-ancestor-of-binary-search-tree/LowestCommonAncestorOfBinarySearchTree.h
 )
