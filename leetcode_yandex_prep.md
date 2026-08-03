@@ -98,7 +98,7 @@
 7. ✅ Reorder List (#143, Medium)
 8. ✅ Add Two Numbers (#2, Medium)
 9. ✅ Odd Even Linked List (#328, Medium)
-10. Copy List with Random Pointer (#138, Medium)
+10. ✅ Copy List with Random Pointer (#138, Medium)
 11. ✅ Rotate List (#61, Medium)
 12. Swap Nodes in Pairs (#24, Medium)
 13. ✅ Sort List (#148, Medium)
