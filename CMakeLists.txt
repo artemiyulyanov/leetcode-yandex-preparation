@@ -106,4 +106,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/lowest-common-ancestor-of-binary-search-tree/LowestCommonAncestorOfBinarySearchTree.h
         easy/merge-two-sorted-lists/MergeTwoSortedLists.cpp
         easy/merge-two-sorted-lists/MergeTwoSortedLists.h
+        easy/linked-list-cycle/LinkedListCycle.cpp
+        easy/linked-list-cycle/LinkedListCycle.h
 )
