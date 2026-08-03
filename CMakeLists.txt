@@ -118,4 +118,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/add-two-numbers/AddTwoNumbers.h
         medium/odd-even-linked-list/OddEvenLinkedList.cpp
         medium/odd-even-linked-list/OddEvenLinkedList.h
+        medium/sort-list/SortList.cpp
+        medium/sort-list/SortList.h
 )

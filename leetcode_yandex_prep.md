@@ -101,7 +101,7 @@
 10. Copy List with Random Pointer (#138, Medium)
 11. ✅ Rotate List (#61, Medium)
 12. Swap Nodes in Pairs (#24, Medium)
-13. Sort List (#148, Medium)
+13. ✅ Sort List (#148, Medium)
 14. Flatten a Multilevel Doubly Linked List (#430, Medium)
 15. Merge k Sorted Lists (#23, Hard)
 16. Reverse Nodes in k-Group (#25, Hard)
