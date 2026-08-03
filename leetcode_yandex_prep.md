@@ -96,7 +96,7 @@
 5. ✅ Middle of the Linked List (#876, Easy)
 6. ✅ Remove Nth Node From End of List (#19, Medium)
 7. ✅ Reorder List (#143, Medium)
-8. Add Two Numbers (#2, Medium)
+8. ✅ Add Two Numbers (#2, Medium)
 9. Odd Even Linked List (#328, Medium)
 10. Copy List with Random Pointer (#138, Medium)
 11. ✅ Rotate List (#61, Medium)
