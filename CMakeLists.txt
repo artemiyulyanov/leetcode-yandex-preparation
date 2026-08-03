@@ -124,4 +124,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         hard/merge-k-sorted-lists/MergeKSortedLists.h
         hard/reverse-nodes-in-k-group/ReverseNodesInKGroup.cpp
         hard/reverse-nodes-in-k-group/ReverseNodesInKGroup.h
+        medium/copy-list-with-random-pointer/CopyListWithRandomPointer.cpp
+        medium/copy-list-with-random-pointer/CopyListWithRandomPointer.h
 )
