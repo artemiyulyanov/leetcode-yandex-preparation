@@ -104,7 +104,7 @@
 13. ✅ Sort List (#148, Medium)
 14. Flatten a Multilevel Doubly Linked List (#430, Medium)
 15. ✅ Merge k Sorted Lists (#23, Hard)
-16. Reverse Nodes in k-Group (#25, Hard)
+16. ✅ Reverse Nodes in k-Group (#25, Hard)
 17. LRU Cache (#146, Medium)
 
 ### Queue
