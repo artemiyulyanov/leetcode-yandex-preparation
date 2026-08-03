@@ -120,4 +120,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/odd-even-linked-list/OddEvenLinkedList.h
         medium/sort-list/SortList.cpp
         medium/sort-list/SortList.h
+        hard/merge-k-sorted-lists/MergeKSortedLists.cpp
+        hard/merge-k-sorted-lists/MergeKSortedLists.h
 )
