@@ -112,4 +112,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/palindrome-linked-list/PalindromeLinkedList.h
         easy/middle-of-the-linked-list/MiddleOfTheLinkedList.cpp
         easy/middle-of-the-linked-list/MiddleOfTheLinkedList.h
+        medium/remove-nth-node-from-end-of-list/RemoveNthNodeFromList.cpp
+        medium/remove-nth-node-from-end-of-list/RemoveNthNodeFromList.h
 )
