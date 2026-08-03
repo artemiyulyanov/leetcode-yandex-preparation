@@ -110,4 +110,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/linked-list-cycle/LinkedListCycle.h
         easy/palindrome-linked-list/PalindromeLinkedList.cpp
         easy/palindrome-linked-list/PalindromeLinkedList.h
+        easy/middle-of-the-linked-list/MiddleOfTheLinkedList.cpp
+        easy/middle-of-the-linked-list/MiddleOfTheLinkedList.h
 )
