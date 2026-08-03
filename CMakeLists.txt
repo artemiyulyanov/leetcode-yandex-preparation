@@ -108,4 +108,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         easy/merge-two-sorted-lists/MergeTwoSortedLists.h
         easy/linked-list-cycle/LinkedListCycle.cpp
         easy/linked-list-cycle/LinkedListCycle.h
+        easy/palindrome-linked-list/PalindromeLinkedList.cpp
+        easy/palindrome-linked-list/PalindromeLinkedList.h
 )

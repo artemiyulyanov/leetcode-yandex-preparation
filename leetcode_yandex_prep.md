@@ -92,7 +92,7 @@
 1. ✅ Reverse Linked List (#206, Easy)
 2. ✅ Merge Two Sorted Lists (#21, Easy)
 3. ✅ Linked List Cycle (#141, Easy)
-4. Palindrome Linked List (#234, Easy)
+4. ✅ Palindrome Linked List (#234, Easy)
 5. Middle of the Linked List (#876, Easy)
 6. Remove Nth Node From End of List (#19, Medium)
 7. ✅ Reorder List (#143, Medium)
