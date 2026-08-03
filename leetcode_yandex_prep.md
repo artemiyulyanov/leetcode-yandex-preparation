@@ -100,7 +100,7 @@
 9. ✅ Odd Even Linked List (#328, Medium)
 10. ✅ Copy List with Random Pointer (#138, Medium)
 11. ✅ Rotate List (#61, Medium)
-12. Swap Nodes in Pairs (#24, Medium)
+12. ✅ Swap Nodes in Pairs (#24, Medium)
 13. ✅ Sort List (#148, Medium)
 14. Flatten a Multilevel Doubly Linked List (#430, Medium)
 15. ✅ Merge k Sorted Lists (#23, Hard)

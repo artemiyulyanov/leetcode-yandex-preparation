@@ -126,4 +126,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         hard/reverse-nodes-in-k-group/ReverseNodesInKGroup.h
         medium/copy-list-with-random-pointer/CopyListWithRandomPointer.cpp
         medium/copy-list-with-random-pointer/CopyListWithRandomPointer.h
+        medium/swap-nodes-in-pairs/SwapNodesInPairs.cpp
+        medium/swap-nodes-in-pairs/SwapNodesInPairs.h
 )
