@@ -116,4 +116,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/remove-nth-node-from-end-of-list/RemoveNthNodeFromList.h
         medium/add-two-numbers/AddTwoNumbers.cpp
         medium/add-two-numbers/AddTwoNumbers.h
+        medium/odd-even-linked-list/OddEvenLinkedList.cpp
+        medium/odd-even-linked-list/OddEvenLinkedList.h
 )
