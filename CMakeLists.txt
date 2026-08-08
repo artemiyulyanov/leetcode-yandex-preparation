@@ -128,4 +128,6 @@ add_executable(leetcode_yandex_preparation main.cpp
         medium/copy-list-with-random-pointer/CopyListWithRandomPointer.h
         medium/swap-nodes-in-pairs/SwapNodesInPairs.cpp
         medium/swap-nodes-in-pairs/SwapNodesInPairs.h
+        medium/find-the-lexicographically-smallest-valid-sequence/FindTheLexicographicallySmallestValidSequence.cpp
+        medium/find-the-lexicographically-smallest-valid-sequence/FindTheLexicographicallySmallestValidSequence.h
 )
